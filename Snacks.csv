@@ -1,0 +1,17 @@
+type,code,name,price,qty,qtySold
+Drinks,1000,Mineral Water,4.0,7,0
+Drinks,1001,Sprite,3.0,7,0
+Drinks,1002,Coca Cola,7.0,7,0
+Drinks,1003,Pepsi,7.0,7,0
+Drinks,1004,Juice,5.0,7,0
+Chocolates,2000,Mars,10.0,7,0
+Chocolates,2001,M&M,5.0,7,0
+Chocolates,2002,Bounty,4.0,7,0
+Chocolates,2003,Sneakers,9.0,7,0
+Chips,3000,Smiths,5.0,7,0
+Chips,3001,Pringles,6.0,7,0
+Chips,3002,Kettle,5.0,7,0
+Chips,3003,Thins,4.0,7,0
+Candies,4000,Mentos,2.0,7,0
+Candies,4001,Sour Patch,3.0,7,0
+Candies,4002,Skittles,5.0,7,0

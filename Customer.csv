@@ -1,0 +1,2 @@
+username,password,savedPayment,cardName,cardNum
+democustomer,1234,false,null,null
